@@ -1,0 +1,20 @@
+/*  */
+
+/*
+60% of #768e63 - Primary
+30% of #638e66 - Secondary
+10% of #8b8e63 - Accent	
+*/
+
+:root {
+
+/* var(--primaryColor) !important; */
+--primaryColor: #768e63;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #638e66;
+
+/* var(--accentColor) !important; */
+--accentColor: #8b8e63;
+
+}
