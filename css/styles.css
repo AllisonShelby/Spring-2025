@@ -10,6 +10,10 @@ p {
     color: orangered;
 }
 
+.blinn-fa-icon a {
+    color: white !important;
+}
+
 .blinn-fa-container {
     background-color: var(--accentColor) !important;
     padding: 50px;
