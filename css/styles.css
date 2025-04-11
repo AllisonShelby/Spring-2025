@@ -33,4 +33,6 @@ p {
     height: 250px;
     background-color: var(--accentColor) !important;
     clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+    position: relative;
+    margin-top: -5px;
 }
