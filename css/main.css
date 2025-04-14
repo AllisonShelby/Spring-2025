@@ -22,7 +22,7 @@ blockqoute {
     color: var(--accentColor) !important;
 }
 
-.blockqoute::before {
+blockqoute::before {
     display: block;
     padding-left: 10px;
     font-size: 80px;
